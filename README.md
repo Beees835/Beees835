@@ -80,7 +80,7 @@
   </p>
 </details>
 
-<details>
+<details open>
   <summary><b>☁️ Cloud & Databases</b></summary>
   <br/>
   <p align="center">
@@ -90,8 +90,6 @@
     <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/>
   </p>
 </details>
-
-
 
  
 
