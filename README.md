@@ -1,5 +1,4 @@
-## Hi there 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hey+there.+I+am+Benson)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&width=550&height=100&center=true&duration=3000&lines=Hey+there.+I+am+Benson)](https://git.io/typing-svg) 
 
 <!--
 **Beees835/Beees835** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
