@@ -44,7 +44,7 @@
  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="35" height="23">
 </h2> 
 
-<details open>
+<details align="center" open>
   <summary><b>📋 Languages</b></summary>
   <br/>
   <p align="center">
@@ -57,7 +57,7 @@
   </p>
 </details>
 
-<details open>
+<details align="center" open>
   <summary><b>🧩 Frameworks & Libraries</b></summary>
   <br/>
   <p align="center">
@@ -69,7 +69,7 @@
   </p>
 </details>
 
-<details open>
+<details align="center" open>
   <summary><b>🔧 Tools & Environments</b></summary>
   <br/>
   <p align="center">
@@ -80,7 +80,7 @@
   </p>
 </details>
 
-<details open>
+<details align="center" open>
   <summary><b>☁️ Cloud & Databases</b></summary>
   <br/>
   <p align="center">
