@@ -13,9 +13,9 @@
 <div align="center">
   <br>
   
-  🚀 **I'm currently working on** `Machine Learning` related topics
+  🚀 **I'm currently working on** `Golang` related topics
   
-  📚 **I'm currently learning** `PyTorch` 
+  📚 **I'm currently learning** `Golang` 
   
   💡 **Fun fact:** `Egg is real`
   
